@@ -47,9 +47,18 @@ is a no-loss game where participants deposit the DAI stablecoin into a common po
 decentralized insurance that would make users whole in the event of smart contract hacks.
 
 **More Resources**
-- [DeFi Pulse](https://defipulse.com/)
+- [DeFi Pulse](https://defipulse.com/)  
+  *DeFi Pulse is a site where you can find the latest analytics and rankings of DeFi protocols. Our rankings track the total value locked into the smart contracts of popular DeFi applications and protocols. Additionally, we curate The DeFi List, a collection of the best resources in DeFi.*  
+  
+  [zero-to-defi](https://defipulse.com/blog/zero-to-defi-cdai/)  
+    A beginner’s guide to earning passive income via Compound Finance
+
 - [DeFi Prime](https://defiprime.com/)
 - [Introducing USDC](https://www.coinbase.com/usdc)
 - [Stablecoin Stats](https://stablecoinstats.com/)
-- [Decentralized Lending](https://medium.com/dydxderivatives/decentralized-lending-an-overview-1e00fdc2d3ee)
+- [Decentralized Lending](https://medium.com/dydxderivatives/decentralized-lending-an-overview-1e00fdc2d3ee)  
+- :thumbsup: [Defi-list](https://defipulse.com/defi-list/)
+
+
+
 
