@@ -11,6 +11,8 @@ Trying to document things learnt about polkadot.
 
 ### Concept
 - [Substrate](https://www.substrate.io/)
+- [Parachain](https://medium.com/polkadot-network/polkadot-the-parachain-3808040a769a)
+- 
 - [LightPaper](https://polkadot.network/Polkadot-lightpaper.pdf)
 - [Whitepaper](https://polkadot.network/PolkaDotPaper.pdf)
 - [Blog](https://polkadot.network/blog/)
@@ -38,6 +40,12 @@ Trying to document things learnt about polkadot.
   - [Energy Web Foundation](https://www.energyweb.org/) - the world’s first open-source, enterprise blockchain platform tailored to the energy sector. 
   - [Dock](https://www.dock.io/) - provides a range of tools incorporating blockchain technology that enables businesses and developers to create verifiable credentials.
   - [OceanProtocol](https://oceanprotocol.com/)
+
+### Dev Beginners
+
+- [Preparing to build on Polkadot](https://medium.com/polkadot-network/preparing-to-build-on-polkadot-349ff5002885)
+- [What is Polkadot? | A Polkadot for Beginners Guide and Intro to Blockchain](https://morioh.com/p/4260f2d85c4e)
+- 
 
 ### Communities
 - **Dot Community Projects Aggregator**: [PolkaProject](https://polkaproject.com/)
